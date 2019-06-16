@@ -5,10 +5,26 @@ Cropping
 
 
 
+
+
+
+
+
+
+
+
 Translation - Embedding - Black
 
 
 ![](GIFS/TranslateBlack.gif)
+
+
+
+
+
+
+
+
 
 
 Scale - Embedding - Black
@@ -16,6 +32,15 @@ Scale - Embedding - Black
 
 
 ![](GIFS/ScaleBlack.gif)
+
+
+
+
+
+
+
+
+
 
 
 Translation - Embedding - Inpainting
