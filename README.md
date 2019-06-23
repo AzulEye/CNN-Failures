@@ -3,4 +3,4 @@
 # CheckTranslationInvariance.py - creates figures with similar data as in table 1 of the paper.
 
 
-# InpaintingFunction.py - the function that takes an image with black background and produces an inpainted image (used in the inpainting protocol).
+# InpaintingFunction.py - takes an image with black background as input and produces an inpainted image (used in the inpainting protocol).
