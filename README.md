@@ -1,5 +1,8 @@
 # Material for the paper "Why do deep convolutional networks generalize so poorly to small image transformations?" by Aharon Azulay and Yair Weiss.
 
+# Implemented with PyTorch
+
+
 # CheckTranslationInvariance.py - creates figures with similar data as in table 1 of the paper.
 
 
